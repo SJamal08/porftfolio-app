@@ -7,7 +7,7 @@ import MongoImg from "../assets/mongo.png";
 import SpringImg from "../assets/spring.png";
 import TypescriptImg from "../assets/typescript.png";
 import PostgresImg from "../assets/postgres.png";
-import KotlinImg from "../assets/android_kotlin.png";
+// import KotlinImg from "../assets/android_kotlin.png";
 
 export const data = {
   firstname: "Jamal",
